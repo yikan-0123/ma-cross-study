@@ -1,0 +1,6 @@
+data/
+panel/
+out/
+__pycache__/
+*.pkl
+*.parquet
