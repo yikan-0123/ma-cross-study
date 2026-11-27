@@ -84,6 +84,10 @@ Prices and index membership come from the public dataset [Johnbrick123/sp500-dat
 - Han, Y., Yang, K. & Zhou, G. (2013). A New Anomaly: The Cross-Sectional Profitability of Technical Analysis. *Journal of Financial and Quantitative Analysis*, 48(5).
 - Moreira, A. & Muir, T. (2017). Volatility-Managed Portfolios. *Journal of Finance*, 72(4).
 
+## License
+
+Code released under the [MIT License](LICENSE). The underlying price data belongs to its respective sources and is not covered by this license.
+
 ## Disclaimer
 
 This is quantitative research, not investment advice. Past statistics do not guarantee future results.
